@@ -47,5 +47,5 @@ The dashboard includes a section with Top Listings (by load and rating) with the
 
 The dashboard also contains a filter on price to select the desired price range. The action filters make the dashboard dynamic. 
 
-[![Project Dashboard]
-(https://github.com/MariaSozinova/Airbnb-London-Listings/blob/main/assets/london_listings_dashboard.png)](https://www.kaggle.com/labdmitriy/airbnb)
+![Project Dashboard]
+(https://github.com/MariaSozinova/Airbnb-London-Listings/blob/main/assets/london_listings_dashboard.png)
