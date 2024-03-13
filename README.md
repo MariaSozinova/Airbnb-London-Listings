@@ -1,5 +1,5 @@
 # Airbnb-London-Listings
-Analysis of real estate object for rent in London using Airbnb dataset.
+Analysis of real estate objects for rent in London using Airbnb dataset.
 
 ## Link to the dashboard
 https://public.tableau.com/app/profile/maria5911/viz/analitics_listings/Dashboard1
